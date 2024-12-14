@@ -1,133 +1,145 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\",
+  "WorkspaceRootPath": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D3A9BB3D-5B4F-48DD-AB3C-806ABFA16BB9}|BUS\\BUS.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A9BB3D-5B4F-48DD-AB3C-806ABFA16BB9}|BUS\\BUS.csproj|solutionrelative:bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500E235D-893F-4394-B9F4-7A247AC3AE41}|DAL\\DAL.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500E235D-893F-4394-B9F4-7A247AC3AE41}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7567EB-23B3-4C89-BCBF-81470F5C4F09}|DTO\\DTO.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7567EB-23B3-4C89-BCBF-81470F5C4F09}|DTO\\DTO.csproj|solutionrelative:dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\winformsappgiaodien\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\winformsappgiaodien\\resultadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\resultadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\resultadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\winformsappgiaodien\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\player.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\player.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\player.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\winformsappgiaodien\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\winformsappgiaodien\\match schendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\match schendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\match schendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\match schendule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\match schendule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\match schendule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\winformsappgiaodien\\editplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\editplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\editplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\editmatchschendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\editmatchschendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\editmatchschendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\winformsappgiaodien\\addplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\addplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\addplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\winformsappgiaodien\\addmatchschendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\addmatchschendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\addmatchschendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\editplayer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\editplayer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\editplayer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\editmatchschendule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\editmatchschendule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\editmatchschendule.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\winformsappgiaodien\\editclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\editclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\editclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\winformsappgiaodien\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\winformsappgiaodien\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\addclub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\addclub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\addclub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\addplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\addplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\addplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\winformsappgiaodien\\addclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\winformsappgiaodien\\addclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\addclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\resultadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\resultadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\resultadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\editmatchschendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\editmatchschendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\editmatchschendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\editclub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\editclub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\editclub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\addmatchschendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\addmatchschendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\addmatchschendule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\club.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\club.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\club.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|c:\\users\\cuong\\source\\repos\\winformsappgiaodien\\winformsappgiaodien\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\project net\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -138,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,59 +158,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ranking.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Ranking.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Ranking.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Ranking.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\Ranking.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\BUS\\Class1.cs",
+              "RelativeDocumentMoniker": "BUS\\Class1.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\BUS\\Class1.cs",
+              "RelativeToolTip": "BUS\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T14:54:34.921Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Result.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Result.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Result.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Result.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\Result.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T10:52:38.342Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResultAdd.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\ResultAdd.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\ResultAdd.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\ResultAdd.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\ResultAdd.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T14:27:39.044Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-14T14:51:23.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SignIn.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignIn.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\SignIn.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignIn.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\SignIn.cs [Design]",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T15:03:21.685Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-14T14:51:05.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "DTO\\Class1.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\DTO\\Class1.cs",
+              "RelativeToolTip": "DTO\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:50:39.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Result.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Result.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Result.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Result.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:52:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultAdd.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\ResultAdd.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\ResultAdd.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\ResultAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:27:39.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignIn.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignIn.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\SignIn.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:03:21.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SignUp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignUp.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignUp.cs",
               "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\SignUp.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignUp.cs [Design]",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignUp.cs [Design]",
               "RelativeToolTip": "WinFormsAppGiaoDien\\SignUp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T05:14:07.567Z",
@@ -206,277 +239,251 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Player.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Player.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Player.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Player.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\Player.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T05:42:18.521Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Player.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Player.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Player.Designer.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Player.Designer.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\Player.Designer.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAawK4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T05:41:46.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\MainForm.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\MainForm.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\MainForm.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\MainForm.cs [Design]",
+              "Title": "Ranking.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Ranking.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Ranking.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Ranking.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T07:22:38.339Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-13T14:54:34.921Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Match Schendule.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Match Schendule.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Match Schendule.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Match Schendule.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\Match Schendule.cs [Design]",
+              "Title": "Player.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Player.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Player.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Player.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T09:35:26.356Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-14T05:42:18.521Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Match Schendule.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Match Schendule.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Match Schendule.Designer.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Match Schendule.Designer.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\Match Schendule.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Player.Designer.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Player.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Player.Designer.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Player.Designer.cs",
+              "RelativeToolTip": "WinFormsAppGiaoDien\\Player.Designer.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAawK4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T09:42:16.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T05:41:46.574Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\MainForm.Designer.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\MainForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\MainForm.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T07:25:20.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T07:22:38.339Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "EditPlayer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditPlayer.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditPlayer.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditPlayer.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\EditPlayer.cs [Design]",
+              "Title": "Match Schendule.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Match Schendule.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Match Schendule.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Match Schendule.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T10:31:58.984Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-13T09:35:26.356Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "EditMatchSchendule.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditMatchSchendule.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditMatchSchendule.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditMatchSchendule.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\EditMatchSchendule.cs [Design]",
+              "Title": "Match Schendule.Designer.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Match Schendule.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Match Schendule.Designer.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Match Schendule.Designer.cs",
+              "RelativeToolTip": "WinFormsAppGiaoDien\\Match Schendule.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T05:38:00.301Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-13T09:42:16.595Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "AddPlayer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddPlayer.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\AddPlayer.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddPlayer.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\AddPlayer.cs [Design]",
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\MainForm.Designer.cs",
+              "RelativeToolTip": "WinFormsAppGiaoDien\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T10:29:12.602Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-13T07:25:20.568Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "AddMatchSchendule.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddMatchSchendule.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\AddMatchSchendule.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddMatchSchendule.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\AddMatchSchendule.cs [Design]",
+              "Title": "EditPlayer.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditPlayer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditPlayer.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditPlayer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T09:46:28.413Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-13T10:31:58.984Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "EditPlayer.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditPlayer.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditPlayer.Designer.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditPlayer.Designer.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\EditPlayer.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EditMatchSchendule.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditMatchSchendule.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditMatchSchendule.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditMatchSchendule.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T05:37:58.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T05:38:00.301Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "EditMatchSchendule.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditMatchSchendule.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditMatchSchendule.Designer.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditMatchSchendule.Designer.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\EditMatchSchendule.Designer.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAawKsAAAASAAAAAAAAAA==",
+              "Title": "AddPlayer.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddPlayer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\AddPlayer.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddPlayer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T05:37:44.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Coach.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Coach.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Coach.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Coach.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\Coach.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T15:01:13.02Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-13T10:29:12.602Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "EditClub.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditClub.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditClub.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditClub.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\EditClub.cs [Design]",
+              "Title": "AddMatchSchendule.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddMatchSchendule.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\AddMatchSchendule.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddMatchSchendule.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T09:29:28.686Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-13T09:46:28.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditPlayer.Designer.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditPlayer.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditPlayer.Designer.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditPlayer.Designer.cs",
+              "RelativeToolTip": "WinFormsAppGiaoDien\\EditPlayer.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:37:58.664Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Club.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Club.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Club.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Club.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\Club.cs [Design]",
+              "Title": "EditMatchSchendule.Designer.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditMatchSchendule.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditMatchSchendule.Designer.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditMatchSchendule.Designer.cs",
+              "RelativeToolTip": "WinFormsAppGiaoDien\\EditMatchSchendule.Designer.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAawKsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T08:32:17.057Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AddClub.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddClub.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\AddClub.Designer.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddClub.Designer.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\AddClub.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T09:44:30.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T05:37:44.571Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "AddPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddPlayer.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\AddPlayer.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddPlayer.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\AddPlayer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAawBoAAAAAAAAAAAAAAA==",
+              "Title": "Coach.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Coach.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Coach.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Coach.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T10:30:15.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T15:01:13.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditClub.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditClub.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditClub.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditClub.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:29:28.686Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "AddClub.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddClub.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\AddClub.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddClub.cs [Design]",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\AddClub.cs [Design]",
+              "Title": "Club.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Club.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Club.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Club.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T08:59:56.808Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-13T08:32:17.057Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "SignUp.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignUp.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\SignUp.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignUp.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\SignUp.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAawBUAAAAAAAAAAAAAAA==",
+              "Title": "AddClub.Designer.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddClub.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\AddClub.Designer.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddClub.Designer.cs",
+              "RelativeToolTip": "WinFormsAppGiaoDien\\AddClub.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T05:19:00.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ResultAdd.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\ResultAdd.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\ResultAdd.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\ResultAdd.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\ResultAdd.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADgvxUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T14:24:48.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T09:44:30.635Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "SignIn.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignIn.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\SignIn.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignIn.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\SignIn.cs",
+              "Title": "AddPlayer.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddPlayer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\AddPlayer.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddPlayer.cs",
+              "RelativeToolTip": "WinFormsAppGiaoDien\\AddPlayer.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAawBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T15:09:30.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T10:30:15.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddClub.cs [Design]",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddClub.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\AddClub.cs",
+              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddClub.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:59:56.808Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignUp.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\SignUp.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignUp.cs",
+              "RelativeToolTip": "WinFormsAppGiaoDien\\SignUp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T05:19:00.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResultAdd.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\ResultAdd.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\ResultAdd.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\ResultAdd.cs",
+              "RelativeToolTip": "WinFormsAppGiaoDien\\ResultAdd.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:24:48.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignIn.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\SignIn.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\SignIn.cs",
+              "RelativeToolTip": "WinFormsAppGiaoDien\\SignIn.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:09:30.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\MainForm.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\MainForm.cs",
               "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\MainForm.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\MainForm.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\MainForm.cs",
               "RelativeToolTip": "WinFormsAppGiaoDien\\MainForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -484,11 +491,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "EditMatchSchendule.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditMatchSchendule.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditMatchSchendule.cs",
               "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditMatchSchendule.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditMatchSchendule.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditMatchSchendule.cs",
               "RelativeToolTip": "WinFormsAppGiaoDien\\EditMatchSchendule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -496,24 +503,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "EditClub.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditClub.Designer.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditClub.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditClub.Designer.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditClub.Designer.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditClub.Designer.cs",
               "RelativeToolTip": "WinFormsAppGiaoDien\\EditClub.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T09:55:07.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T09:55:07.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "AddMatchSchendule.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddMatchSchendule.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddMatchSchendule.cs",
               "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\AddMatchSchendule.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddMatchSchendule.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\AddMatchSchendule.cs",
               "RelativeToolTip": "WinFormsAppGiaoDien\\AddMatchSchendule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -521,24 +527,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Club.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Club.Designer.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Club.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Club.Designer.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Club.Designer.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Club.Designer.cs",
               "RelativeToolTip": "WinFormsAppGiaoDien\\Club.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T08:33:00.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T08:33:00.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Club.cs",
-              "DocumentMoniker": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Club.cs",
+              "DocumentMoniker": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Club.cs",
               "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Club.cs",
-              "ToolTip": "C:\\Users\\cuong\\source\\repos\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Club.cs",
+              "ToolTip": "D:\\Project Net\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Club.cs",
               "RelativeToolTip": "WinFormsAppGiaoDien\\Club.cs",
               "ViewState": "AgIAABUAAAAAAAAAAADgvyQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
