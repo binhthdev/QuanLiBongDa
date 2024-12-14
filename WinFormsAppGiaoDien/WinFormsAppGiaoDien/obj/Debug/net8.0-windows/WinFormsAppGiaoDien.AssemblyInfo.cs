@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsAppGiaoDien")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf26ec300a85c17499dda29bd264ccb84b1c3c13")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsAppGiaoDien")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsAppGiaoDien")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
