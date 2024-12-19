@@ -1,0 +1,13 @@
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\bin\Debug\net6.0\DTO.dll
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\bin\Debug\net6.0\DTO.pdb
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\obj\Debug\net6.0\DTO.sourcelink.json
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\obj\Debug\net6.0\DTO.dll
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\obj\Debug\net6.0\DTO.pdb
+D:\code\backend\.NET\New folder\QuanLiBongDa\WinFormsAppGiaoDien\DTO\obj\Debug\net6.0\ref\DTO.dll

@@ -42,6 +42,7 @@
             label1 = new Label();
             dataGridView1 = new DataGridView();
             dateTimePicker1 = new DateTimePicker();
+            btnAdd = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
@@ -189,11 +190,21 @@
             dateTimePicker1.Size = new Size(250, 27);
             dateTimePicker1.TabIndex = 26;
             // 
+            // btnAdd
+            // 
+            btnAdd.Location = new Point(1043, 637);
+            btnAdd.Name = "btnAdd";
+            btnAdd.Size = new Size(108, 48);
+            btnAdd.TabIndex = 27;
+            btnAdd.Text = "Add";
+            btnAdd.UseVisualStyleBackColor = true;
+            // 
             // Result
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1182, 753);
+            Controls.Add(btnAdd);
             Controls.Add(dateTimePicker1);
             Controls.Add(panel1);
             Controls.Add(label1);
@@ -223,5 +234,6 @@
         private Label label1;
         private DataGridView dataGridView1;
         private DateTimePicker dateTimePicker1;
+        private Button btnAdd;
     }
 }

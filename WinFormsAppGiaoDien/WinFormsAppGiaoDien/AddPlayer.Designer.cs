@@ -36,14 +36,16 @@
             label6 = new Label();
             label3 = new Label();
             label2 = new Label();
-            lbCLBID = new Label();
+            lbPlayerName = new Label();
             txtNationality = new TextBox();
             ttxNamePlayer = new TextBox();
             txtNumberPlayer = new TextBox();
             label5 = new Label();
             cbbRole = new ComboBox();
             dateTimePickerPlayer = new DateTimePicker();
+            txtPlayerID = new TextBox();
             label1 = new Label();
+            cbxteamID = new ComboBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -123,15 +125,15 @@
             label2.TabIndex = 12;
             label2.Text = "Name :";
             // 
-            // lbCLBID
+            // lbPlayerName
             // 
-            lbCLBID.AutoSize = true;
-            lbCLBID.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
-            lbCLBID.Location = new Point(12, 14);
-            lbCLBID.Name = "lbCLBID";
-            lbCLBID.Size = new Size(88, 24);
-            lbCLBID.TabIndex = 11;
-            lbCLBID.Text = "CLB ID :";
+            lbPlayerName.AutoSize = true;
+            lbPlayerName.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            lbPlayerName.Location = new Point(12, 14);
+            lbPlayerName.Name = "lbPlayerName";
+            lbPlayerName.Size = new Size(107, 24);
+            lbPlayerName.TabIndex = 11;
+            lbPlayerName.Text = "Player ID :";
             // 
             // txtNationality
             // 
@@ -180,21 +182,39 @@
             dateTimePickerPlayer.Size = new Size(221, 27);
             dateTimePickerPlayer.TabIndex = 23;
             // 
+            // txtPlayerID
+            // 
+            txtPlayerID.Location = new Point(167, 11);
+            txtPlayerID.Name = "txtPlayerID";
+            txtPlayerID.Size = new Size(221, 27);
+            txtPlayerID.TabIndex = 24;
+            // 
             // label1
             // 
-            label1.Location = new Point(167, 14);
+            label1.AutoSize = true;
+            label1.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label1.Location = new Point(12, 152);
             label1.Name = "label1";
-            label1.Size = new Size(221, 25);
-            label1.TabIndex = 24;
-            label1.Text = "id Clb";
-            label1.Click += label1_Click;
+            label1.Size = new Size(99, 24);
+            label1.TabIndex = 26;
+            label1.Text = "Team ID :";
+            // 
+            // cbxteamID
+            // 
+            cbxteamID.FormattingEnabled = true;
+            cbxteamID.Location = new Point(167, 148);
+            cbxteamID.Name = "cbxteamID";
+            cbxteamID.Size = new Size(221, 28);
+            cbxteamID.TabIndex = 27;
             // 
             // AddPlayer
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(932, 253);
+            Controls.Add(cbxteamID);
             Controls.Add(label1);
+            Controls.Add(txtPlayerID);
             Controls.Add(dateTimePickerPlayer);
             Controls.Add(cbbRole);
             Controls.Add(btnAdd);
@@ -206,13 +226,12 @@
             Controls.Add(label5);
             Controls.Add(label3);
             Controls.Add(label2);
-            Controls.Add(lbCLBID);
+            Controls.Add(lbPlayerName);
             Controls.Add(txtNumberPlayer);
             Controls.Add(txtNationality);
             Controls.Add(ttxNamePlayer);
             Name = "AddPlayer";
             Text = "Add Player";
-            Load += AddPlayer_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -230,7 +249,7 @@
         private Label label4;
         private Label label3;
         private Label label2;
-        private Label lbCLBID;
+        private Label lbPlayerName;
         private TextBox textBox7;
         private TextBox textBox6;
         private TextBox txtNationality;
@@ -239,6 +258,8 @@
         private Label label5;
         private ComboBox cbbRole;
         private DateTimePicker dateTimePickerPlayer;
+        private TextBox txtPlayerID;
         private Label label1;
+        private ComboBox cbxteamID;
     }
 }

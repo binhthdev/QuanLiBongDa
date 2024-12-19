@@ -30,15 +30,15 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             panel1 = new Panel();
-            Logout = new Button();
-            Exit = new Button();
-            Coach = new Button();
-            Referee = new Button();
-            Ranking = new Button();
-            button4 = new Button();
-            button3 = new Button();
-            button2 = new Button();
-            button1 = new Button();
+            btnLogout = new Button();
+            btnExit = new Button();
+            btnCoach = new Button();
+            btnReferee = new Button();
+            btnRanking = new Button();
+            btnResult = new Button();
+            btnPlayer = new Button();
+            btnMschendule = new Button();
+            btnClub = new Button();
             pictureBox1 = new PictureBox();
             AnhNen = new PictureBox();
             Welcome = new Button();
@@ -52,106 +52,105 @@
             // panel1
             // 
             panel1.BackColor = Color.SteelBlue;
-            panel1.Controls.Add(Logout);
-            panel1.Controls.Add(Exit);
-            panel1.Controls.Add(Coach);
-            panel1.Controls.Add(Referee);
-            panel1.Controls.Add(Ranking);
-            panel1.Controls.Add(button4);
-            panel1.Controls.Add(button3);
-            panel1.Controls.Add(button2);
-            panel1.Controls.Add(button1);
+            panel1.Controls.Add(btnLogout);
+            panel1.Controls.Add(btnExit);
+            panel1.Controls.Add(btnCoach);
+            panel1.Controls.Add(btnReferee);
+            panel1.Controls.Add(btnRanking);
+            panel1.Controls.Add(btnResult);
+            panel1.Controls.Add(btnPlayer);
+            panel1.Controls.Add(btnMschendule);
+            panel1.Controls.Add(btnClub);
             panel1.Controls.Add(pictureBox1);
             panel1.Dock = DockStyle.Left;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
             panel1.Size = new Size(250, 753);
-            panel1.TabIndex = 0;
-            panel1.Paint += panel1_Paint;
+  
             // 
-            // Logout
+            // btnLogout
             // 
-            Logout.Location = new Point(0, 702);
-            Logout.Name = "Logout";
-            Logout.Size = new Size(250, 51);
-            Logout.TabIndex = 1;
-            Logout.Text = "Logout";
-            Logout.UseVisualStyleBackColor = true;
+            btnLogout.Location = new Point(0, 702);
+            btnLogout.Name = "btnLogout";
+            btnLogout.Size = new Size(250, 51);
+            btnLogout.TabIndex = 1;
+            btnLogout.Text = "Logout";
+            btnLogout.UseVisualStyleBackColor = true;
             // 
-            // Exit
+            // btnExit
             // 
-            Exit.Location = new Point(0, 560);
-            Exit.Name = "Exit";
-            Exit.Size = new Size(250, 51);
-            Exit.TabIndex = 1;
-            Exit.Text = "Exit";
-            Exit.UseVisualStyleBackColor = true;
+            btnExit.Location = new Point(0, 560);
+            btnExit.Name = "btnExit";
+            btnExit.Size = new Size(250, 51);
+            btnExit.TabIndex = 1;
+            btnExit.Text = "Exit";
+            btnExit.UseVisualStyleBackColor = true;
             // 
-            // Coach
+            // btnCoach
             // 
-            Coach.Location = new Point(0, 503);
-            Coach.Name = "Coach";
-            Coach.Size = new Size(250, 51);
-            Coach.TabIndex = 1;
-            Coach.Text = "Coach";
-            Coach.UseVisualStyleBackColor = true;
+            btnCoach.Location = new Point(0, 503);
+            btnCoach.Name = "btnCoach";
+            btnCoach.Size = new Size(250, 51);
+            btnCoach.TabIndex = 1;
+            btnCoach.Text = "Coach";
+            btnCoach.UseVisualStyleBackColor = true;
             // 
-            // Referee
+            // btnReferee
             // 
-            Referee.Location = new Point(0, 446);
-            Referee.Name = "Referee";
-            Referee.Size = new Size(250, 51);
-            Referee.TabIndex = 1;
-            Referee.Text = "Referee";
-            Referee.UseVisualStyleBackColor = true;
+            btnReferee.Location = new Point(0, 446);
+            btnReferee.Name = "btnReferee";
+            btnReferee.Size = new Size(250, 51);
+            btnReferee.TabIndex = 1;
+            btnReferee.Text = "Referee";
+            btnReferee.UseVisualStyleBackColor = true;
             // 
-            // Ranking
+            // btnRanking
             // 
-            Ranking.Location = new Point(0, 389);
-            Ranking.Name = "Ranking";
-            Ranking.Size = new Size(250, 51);
-            Ranking.TabIndex = 1;
-            Ranking.Text = "Ranking";
-            Ranking.UseVisualStyleBackColor = true;
+            btnRanking.Location = new Point(0, 389);
+            btnRanking.Name = "btnRanking";
+            btnRanking.Size = new Size(250, 51);
+            btnRanking.TabIndex = 1;
+            btnRanking.Text = "Ranking";
+            btnRanking.UseVisualStyleBackColor = true;
             // 
-            // button4
+            // btnResult
             // 
-            button4.Location = new Point(0, 332);
-            button4.Name = "button4";
-            button4.Size = new Size(250, 51);
-            button4.TabIndex = 1;
-            button4.Text = "Result";
-            button4.UseVisualStyleBackColor = true;
+            btnResult.Location = new Point(0, 332);
+            btnResult.Name = "btnResult";
+            btnResult.Size = new Size(250, 51);
+            btnResult.TabIndex = 1;
+            btnResult.Text = "Result";
+            btnResult.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // btnPlayer
             // 
-            button3.Location = new Point(0, 275);
-            button3.Name = "button3";
-            button3.Size = new Size(250, 51);
-            button3.TabIndex = 1;
-            button3.Text = "Player";
-            button3.UseVisualStyleBackColor = true;
+            btnPlayer.Location = new Point(0, 275);
+            btnPlayer.Name = "btnPlayer";
+            btnPlayer.Size = new Size(250, 51);
+            btnPlayer.TabIndex = 1;
+            btnPlayer.Text = "Player";
+            btnPlayer.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // btnMschendule
             // 
-            button2.Location = new Point(0, 218);
-            button2.Name = "button2";
-            button2.Size = new Size(250, 51);
-            button2.TabIndex = 1;
-            button2.Text = "Match Schendule";
-            button2.UseVisualStyleBackColor = true;
+            btnMschendule.Location = new Point(0, 218);
+            btnMschendule.Name = "btnMschendule";
+            btnMschendule.Size = new Size(250, 51);
+            btnMschendule.TabIndex = 1;
+            btnMschendule.Text = "Match Schendule";
+            btnMschendule.UseVisualStyleBackColor = true;
             // 
-            // button1
+            // btnClub
             // 
-            button1.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 163);
-            button1.ForeColor = SystemColors.ActiveCaptionText;
-            button1.Location = new Point(0, 161);
-            button1.Name = "button1";
-            button1.Size = new Size(250, 51);
-            button1.TabIndex = 1;
-            button1.Text = "Club";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            btnClub.Font = new Font("Segoe UI Semibold", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            btnClub.ForeColor = SystemColors.ActiveCaptionText;
+            btnClub.Location = new Point(0, 161);
+            btnClub.Name = "btnClub";
+            btnClub.Size = new Size(250, 51);
+            btnClub.TabIndex = 1;
+            btnClub.Text = "Club";
+            btnClub.UseVisualStyleBackColor = true;
+            btnClub.Click += button1_Click;
             // 
             // pictureBox1
             // 
@@ -215,16 +214,16 @@
         #endregion
 
         private Panel panel1;
-        private Button button1;
+        private Button btnClub;
         private PictureBox pictureBox1;
-        private Button Logout;
-        private Button Exit;
-        private Button Coach;
-        private Button Referee;
-        private Button Ranking;
-        private Button button4;
-        private Button button3;
-        private Button button2;
+        private Button btnLogout;
+        private Button btnExit;
+        private Button btnCoach;
+        private Button btnReferee;
+        private Button btnRanking;
+        private Button btnResult;
+        private Button btnPlayer;
+        private Button btnMschendule;
         private PictureBox AnhNen;
         private Button Welcome;
         private PictureBox pictureBox2;

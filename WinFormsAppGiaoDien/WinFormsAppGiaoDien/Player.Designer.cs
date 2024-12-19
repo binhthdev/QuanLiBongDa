@@ -43,7 +43,8 @@
             btnAdd = new Button();
             btnEdit = new Button();
             dataGridView1 = new DataGridView();
-            comboBox1 = new ComboBox();
+            searchPlayer = new TextBox();
+            btnDelete = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
@@ -172,7 +173,6 @@
             label1.Size = new Size(49, 20);
             label1.TabIndex = 19;
             label1.Text = "Player";
-            //label1.Click += this.label1_Click;
             // 
             // btnAdd
             // 
@@ -200,21 +200,60 @@
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(927, 547);
             dataGridView1.TabIndex = 16;
+
+
+            // Thêm cột vào DataGridView
+            dataGridView1.Columns.Add("PlayerID", "Player ID");
+            dataGridView1.Columns.Add("PlayerName", "Player Name");
+            dataGridView1.Columns.Add("Age", "Age");
+            dataGridView1.Columns.Add("Position", "Position");
+            dataGridView1.Columns.Add("ShirtNumber", "Shirt Number");
+            dataGridView1.Columns.Add("TeamID", "Team ID");
+            dataGridView1.Columns.Add("Nationality", "Nationality"); // Thêm cột Quốc tịch
+                                                                     // Thêm cột hiển thị ảnh
+            DataGridViewImageColumn imgColumn = new DataGridViewImageColumn();
+            imgColumn.Name = "PlayerImage";
+            imgColumn.HeaderText = "Player Image";
+            imgColumn.ImageLayout = DataGridViewImageCellLayout.Stretch; // Ảnh co dãn vừa khung
+            dataGridView1.Columns.Add(imgColumn);
+
+            // Chỉnh sửa chiều rộng của cột hiển thị ảnh
+            dataGridView1.Columns["PlayerImage"].Width = 150;
+
+            // Chỉnh sửa chiều rộng của các cột nếu cần
+            dataGridView1.Columns["PlayerID"].Width = 100;
+            dataGridView1.Columns["PlayerName"].Width = 200;
+            dataGridView1.Columns["Age"].Width = 100;
+            dataGridView1.Columns["Position"].Width = 150;
+            dataGridView1.Columns["ShirtNumber"].Width = 100;
+            dataGridView1.Columns["TeamID"].Width = 100;
+            dataGridView1.Columns["Nationality"].Width = 150;  // Cột Quốc tịch
             // 
-            // comboBox1
+            // searchPlayer
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(654, 671);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(151, 28);
-            comboBox1.TabIndex = 20;
+            searchPlayer.Font = new Font("Segoe UI", 12F, FontStyle.Italic, GraphicsUnit.Point, 163);
+            searchPlayer.Location = new Point(382, 680);
+            searchPlayer.Name = "searchPlayer";
+            searchPlayer.PlaceholderText = "Search here";
+            searchPlayer.Size = new Size(400, 34);
+            searchPlayer.TabIndex = 7;
+            // 
+            // btnDelete
+            // 
+            btnDelete.Location = new Point(935, 680);
+            btnDelete.Name = "btnDelete";
+            btnDelete.Size = new Size(71, 51);
+            btnDelete.TabIndex = 20;
+            btnDelete.Text = "Delete";
+            btnDelete.UseVisualStyleBackColor = true;
             // 
             // Player
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1182, 753);
-            Controls.Add(comboBox1);
+            Controls.Add(btnDelete);
+            Controls.Add(searchPlayer);
             Controls.Add(panel1);
             Controls.Add(label1);
             Controls.Add(btnAdd);
@@ -246,6 +285,7 @@
         private Button btnAdd;
         private Button btnEdit;
         private DataGridView dataGridView1;
-        private ComboBox comboBox1;
+        private TextBox searchPlayer;
+        private Button btnDelete;
     }
 }

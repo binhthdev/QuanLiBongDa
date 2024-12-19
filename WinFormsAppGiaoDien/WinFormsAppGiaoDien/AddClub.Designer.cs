@@ -28,33 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            textBox1 = new TextBox();
+            txtTeamID = new TextBox();
             label1 = new Label();
-            textBox2 = new TextBox();
+            txtAddress = new TextBox();
             label2 = new Label();
-            textBox3 = new TextBox();
+            txtCity = new TextBox();
             label3 = new Label();
             label4 = new Label();
-            textBox5 = new TextBox();
+            txtTeamName = new TextBox();
             label5 = new Label();
-            textBox6 = new TextBox();
+            txtNation = new TextBox();
             label6 = new Label();
-            textBox7 = new TextBox();
+            txtStadium = new TextBox();
             label7 = new Label();
-            pictureBox1 = new PictureBox();
-            btnUpload = new Button();
+            pictureBox1Logo = new PictureBox();
+            btnUploadLogo = new Button();
             btnAdd = new Button();
             btnClear = new Button();
             dateTimePicker1 = new DateTimePicker();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1Logo).BeginInit();
             SuspendLayout();
             // 
-            // textBox1
+            // txtTeamID
             // 
-            textBox1.Location = new Point(167, 20);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(221, 27);
-            textBox1.TabIndex = 0;
+            txtTeamID.Location = new Point(167, 20);
+            txtTeamID.Name = "txtTeamID";
+            txtTeamID.Size = new Size(221, 27);
+            txtTeamID.TabIndex = 0;
             // 
             // label1
             // 
@@ -66,12 +66,12 @@
             label1.TabIndex = 1;
             label1.Text = "CLB ID :";
             // 
-            // textBox2
+            // txtAddress
             // 
-            textBox2.Location = new Point(167, 66);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(221, 27);
-            textBox2.TabIndex = 0;
+            txtAddress.Location = new Point(167, 66);
+            txtAddress.Name = "txtAddress";
+            txtAddress.Size = new Size(221, 27);
+            txtAddress.TabIndex = 0;
             // 
             // label2
             // 
@@ -83,12 +83,12 @@
             label2.TabIndex = 1;
             label2.Text = "Address :";
             // 
-            // textBox3
+            // txtCity
             // 
-            textBox3.Location = new Point(167, 113);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(221, 27);
-            textBox3.TabIndex = 0;
+            txtCity.Location = new Point(167, 113);
+            txtCity.Name = "txtCity";
+            txtCity.Size = new Size(221, 27);
+            txtCity.TabIndex = 0;
             // 
             // label3
             // 
@@ -110,12 +110,12 @@
             label4.TabIndex = 1;
             label4.Text = "Day Build :";
             // 
-            // textBox5
+            // txtTeamName
             // 
-            textBox5.Location = new Point(568, 20);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(221, 27);
-            textBox5.TabIndex = 0;
+            txtTeamName.Location = new Point(568, 20);
+            txtTeamName.Name = "txtTeamName";
+            txtTeamName.Size = new Size(221, 27);
+            txtTeamName.TabIndex = 0;
             // 
             // label5
             // 
@@ -127,13 +127,12 @@
             label5.TabIndex = 1;
             label5.Text = "CLB Name :";
             // 
-            // textBox6
+            // txtNation
             // 
-            textBox6.Location = new Point(568, 66);
-            textBox6.Name = "textBox6";
-            textBox6.Size = new Size(221, 27);
-            textBox6.TabIndex = 0;
-            textBox6.TextChanged += textBox6_TextChanged;
+            txtNation.Location = new Point(568, 66);
+            txtNation.Name = "txtNation";
+            txtNation.Size = new Size(221, 27);
+            txtNation.TabIndex = 0;
             // 
             // label6
             // 
@@ -145,12 +144,12 @@
             label6.TabIndex = 1;
             label6.Text = "Nation :";
             // 
-            // textBox7
+            // txtStadium
             // 
-            textBox7.Location = new Point(568, 113);
-            textBox7.Name = "textBox7";
-            textBox7.Size = new Size(221, 27);
-            textBox7.TabIndex = 0;
+            txtStadium.Location = new Point(568, 113);
+            txtStadium.Name = "txtStadium";
+            txtStadium.Size = new Size(221, 27);
+            txtStadium.TabIndex = 0;
             // 
             // label7
             // 
@@ -162,24 +161,23 @@
             label7.TabIndex = 1;
             label7.Text = "Stadium :";
             // 
-            // pictureBox1
+            // pictureBox1Logo
             // 
-            pictureBox1.BackColor = Color.Silver;
-            pictureBox1.Location = new Point(795, 22);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(125, 118);
-            pictureBox1.TabIndex = 2;
-            pictureBox1.TabStop = false;
-            pictureBox1.Click += pictureBox1_Click;
+            pictureBox1Logo.BackColor = Color.Silver;
+            pictureBox1Logo.Location = new Point(795, 22);
+            pictureBox1Logo.Name = "pictureBox1Logo";
+            pictureBox1Logo.Size = new Size(125, 118);
+            pictureBox1Logo.TabIndex = 2;
+            pictureBox1Logo.TabStop = false;
             // 
-            // btnUpload
+            // btnUploadLogo
             // 
-            btnUpload.Location = new Point(795, 147);
-            btnUpload.Name = "btnUpload";
-            btnUpload.Size = new Size(125, 49);
-            btnUpload.TabIndex = 3;
-            btnUpload.Text = "Upload";
-            btnUpload.UseVisualStyleBackColor = true;
+            btnUploadLogo.Location = new Point(795, 147);
+            btnUploadLogo.Name = "btnUploadLogo";
+            btnUploadLogo.Size = new Size(125, 49);
+            btnUploadLogo.TabIndex = 3;
+            btnUploadLogo.Text = "Upload";
+            btnUploadLogo.UseVisualStyleBackColor = true;
             // 
             // btnAdd
             // 
@@ -216,8 +214,8 @@
             Controls.Add(dateTimePicker1);
             Controls.Add(btnAdd);
             Controls.Add(btnClear);
-            Controls.Add(btnUpload);
-            Controls.Add(pictureBox1);
+            Controls.Add(btnUploadLogo);
+            Controls.Add(pictureBox1Logo);
             Controls.Add(label7);
             Controls.Add(label6);
             Controls.Add(label5);
@@ -225,36 +223,36 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(textBox7);
-            Controls.Add(textBox6);
-            Controls.Add(textBox5);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(txtStadium);
+            Controls.Add(txtNation);
+            Controls.Add(txtTeamName);
+            Controls.Add(txtCity);
+            Controls.Add(txtAddress);
+            Controls.Add(txtTeamID);
             Name = "AddClub";
             Text = "AddClub";
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1Logo).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private TextBox textBox1;
+        private TextBox txtTeamID;
         private Label label1;
-        private TextBox textBox2;
+        private TextBox txtAddress;
         private Label label2;
-        private TextBox textBox3;
+        private TextBox txtCity;
         private Label label3;
         private Label label4;
-        private TextBox textBox5;
+        private TextBox txtTeamName;
         private Label label5;
-        private TextBox textBox6;
+        private TextBox txtNation;
         private Label label6;
-        private TextBox textBox7;
+        private TextBox txtStadium;
         private Label label7;
-        private PictureBox pictureBox1;
-        private Button btnUpload;
+        private PictureBox pictureBox1Logo;
+        private Button btnUploadLogo;
         private Button btnAdd;
         private Button btnClear;
         private DateTimePicker dateTimePicker1;

@@ -38,12 +38,12 @@
             label3 = new Label();
             label2 = new Label();
             label1 = new Label();
-            textBox7 = new TextBox();
-            textBox6 = new TextBox();
-            textBox5 = new TextBox();
-            textBox3 = new TextBox();
-            textBox2 = new TextBox();
-            textBox1 = new TextBox();
+            txtStadium = new TextBox();
+            txtNation = new TextBox();
+            txtTeamName = new TextBox();
+            txtCity = new TextBox();
+            txtAddress = new TextBox();
+            txtTeamID = new TextBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -144,47 +144,47 @@
             label1.TabIndex = 11;
             label1.Text = "CLB ID :";
             // 
-            // textBox7
+            // txtStadium
             // 
-            textBox7.Location = new Point(570, 117);
-            textBox7.Name = "textBox7";
-            textBox7.Size = new Size(221, 27);
-            textBox7.TabIndex = 9;
+            txtStadium.Location = new Point(570, 117);
+            txtStadium.Name = "txtStadium";
+            txtStadium.Size = new Size(221, 27);
+            txtStadium.TabIndex = 9;
             // 
-            // textBox6
+            // txtNation
             // 
-            textBox6.Location = new Point(570, 70);
-            textBox6.Name = "textBox6";
-            textBox6.Size = new Size(221, 27);
-            textBox6.TabIndex = 8;
+            txtNation.Location = new Point(570, 70);
+            txtNation.Name = "txtNation";
+            txtNation.Size = new Size(221, 27);
+            txtNation.TabIndex = 8;
             // 
-            // textBox5
+            // txtTeamName
             // 
-            textBox5.Location = new Point(570, 24);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(221, 27);
-            textBox5.TabIndex = 7;
+            txtTeamName.Location = new Point(570, 24);
+            txtTeamName.Name = "txtTeamName";
+            txtTeamName.Size = new Size(221, 27);
+            txtTeamName.TabIndex = 7;
             // 
-            // textBox3
+            // txtCity
             // 
-            textBox3.Location = new Point(169, 117);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(221, 27);
-            textBox3.TabIndex = 6;
+            txtCity.Location = new Point(169, 117);
+            txtCity.Name = "txtCity";
+            txtCity.Size = new Size(221, 27);
+            txtCity.TabIndex = 6;
             // 
-            // textBox2
+            // txtAddress
             // 
-            textBox2.Location = new Point(169, 70);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(221, 27);
-            textBox2.TabIndex = 10;
+            txtAddress.Location = new Point(169, 70);
+            txtAddress.Name = "txtAddress";
+            txtAddress.Size = new Size(221, 27);
+            txtAddress.TabIndex = 10;
             // 
-            // textBox1
+            // txtTeamID
             // 
-            textBox1.Location = new Point(169, 24);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(221, 27);
-            textBox1.TabIndex = 5;
+            txtTeamID.Location = new Point(169, 24);
+            txtTeamID.Name = "txtTeamID";
+            txtTeamID.Size = new Size(221, 27);
+            txtTeamID.TabIndex = 5;
             // 
             // EditClub
             // 
@@ -201,12 +201,12 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(textBox7);
-            Controls.Add(textBox6);
-            Controls.Add(textBox5);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(txtStadium);
+            Controls.Add(txtNation);
+            Controls.Add(txtTeamName);
+            Controls.Add(txtCity);
+            Controls.Add(txtAddress);
+            Controls.Add(txtTeamID);
             Name = "EditClub";
             Text = "EditClub";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
@@ -226,11 +226,11 @@
         private Label label3;
         private Label label2;
         private Label label1;
-        private TextBox textBox7;
-        private TextBox textBox6;
-        private TextBox textBox5;
-        private TextBox textBox3;
-        private TextBox textBox2;
-        private TextBox textBox1;
+        private TextBox txtStadium;
+        private TextBox txtNation;
+        private TextBox txtTeamName;
+        private TextBox txtCity;
+        private TextBox txtAddress;
+        private TextBox txtTeamID;
     }
 }
