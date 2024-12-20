@@ -56,14 +56,32 @@ namespace WinFormsAppGiaoDien
             dataGridViewTextBoxColumn5 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn6 = new DataGridViewTextBoxColumn();
             dataGridViewTextBoxColumn7 = new DataGridViewTextBoxColumn();
-            btnAdd = new Button();
             searchTeams = new TextBox();
             label1 = new Label();
-            btnEdit = new Button();
             btnDelete = new Button();
+            btnUploadLogo = new Button();
+            pictureBox1Logo = new PictureBox();
+            dateTimePicker1 = new DateTimePicker();
+            label4 = new Label();
+            label3 = new Label();
+            label2 = new Label();
+            label5 = new Label();
+            txtAddress = new TextBox();
+            txtTeamID = new TextBox();
+            label7 = new Label();
+            label6 = new Label();
+            label8 = new Label();
+            txtTeamName = new TextBox();
+            btnAdd = new Button();
+            btnClear = new Button();
+            btnEdit = new Button();
+            cmbCity = new ComboBox();
+            cmbNation = new ComboBox();
+            cmbStadium = new ComboBox();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dataGridViewTeams).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1Logo).BeginInit();
             SuspendLayout();
             // 
             // panel1
@@ -253,7 +271,6 @@ namespace WinFormsAppGiaoDien
             // 
             // dataGridViewTextBoxColumn5
             // 
-            //dataGridViewTextBoxColumn5.DefaultCellStyle = dataGridViewCellStyle5;
             dataGridViewTextBoxColumn5.HeaderText = "Stadium";
             dataGridViewTextBoxColumn5.MinimumWidth = 6;
             dataGridViewTextBoxColumn5.Name = "dataGridViewTextBoxColumn5";
@@ -261,7 +278,6 @@ namespace WinFormsAppGiaoDien
             // 
             // dataGridViewTextBoxColumn6
             // 
-            //dataGridViewTextBoxColumn6.DefaultCellStyle = dataGridViewCellStyle5;
             dataGridViewTextBoxColumn6.HeaderText = "City";
             dataGridViewTextBoxColumn6.MinimumWidth = 6;
             dataGridViewTextBoxColumn6.Name = "dataGridViewTextBoxColumn6";
@@ -269,20 +285,10 @@ namespace WinFormsAppGiaoDien
             // 
             // dataGridViewTextBoxColumn7
             // 
-            //dataGridViewTextBoxColumn7.DefaultCellStyle = dataGridViewCellStyle5;
             dataGridViewTextBoxColumn7.HeaderText = "Nation";
             dataGridViewTextBoxColumn7.MinimumWidth = 6;
             dataGridViewTextBoxColumn7.Name = "dataGridViewTextBoxColumn7";
             dataGridViewTextBoxColumn7.Width = 200;
-            // 
-            // btnAdd
-            // 
-            btnAdd.Location = new Point(1099, 680);
-            btnAdd.Name = "btnAdd";
-            btnAdd.Size = new Size(71, 51);
-            btnAdd.TabIndex = 5;
-            btnAdd.Text = "Add";
-            btnAdd.UseVisualStyleBackColor = true;
             // 
             // searchTeams
             // 
@@ -302,35 +308,212 @@ namespace WinFormsAppGiaoDien
             label1.TabIndex = 7;
             label1.Text = "Club";
             // 
-            // btnEdit
-            // 
-            btnEdit.Location = new Point(1021, 680);
-            btnEdit.Name = "btnEdit";
-            btnEdit.Size = new Size(71, 51);
-            btnEdit.TabIndex = 5;
-            btnEdit.Text = "Edit";
-            btnEdit.UseVisualStyleBackColor = true;
-            // 
             // btnDelete
             // 
-            btnDelete.Location = new Point(944, 680);
+            btnDelete.Location = new Point(1312, 665);
             btnDelete.Name = "btnDelete";
-            btnDelete.Size = new Size(71, 51);
+            btnDelete.Size = new Size(125, 49);
             btnDelete.TabIndex = 8;
             btnDelete.Text = "Delete";
             btnDelete.UseVisualStyleBackColor = true;
+            // 
+            // btnUploadLogo
+            // 
+            btnUploadLogo.Location = new Point(1379, 189);
+            btnUploadLogo.Name = "btnUploadLogo";
+            btnUploadLogo.Size = new Size(125, 49);
+            btnUploadLogo.TabIndex = 10;
+            btnUploadLogo.Text = "Upload";
+            btnUploadLogo.UseVisualStyleBackColor = true;
+            // 
+            // pictureBox1Logo
+            // 
+            pictureBox1Logo.BackColor = Color.Silver;
+            pictureBox1Logo.Location = new Point(1379, 64);
+            pictureBox1Logo.Name = "pictureBox1Logo";
+            pictureBox1Logo.Size = new Size(125, 118);
+            pictureBox1Logo.TabIndex = 9;
+            pictureBox1Logo.TabStop = false;
+            // 
+            // dateTimePicker1
+            // 
+            dateTimePicker1.Format = DateTimePickerFormat.Short;
+            dateTimePicker1.Location = new Point(1347, 403);
+            dateTimePicker1.Name = "dateTimePicker1";
+            dateTimePicker1.Size = new Size(221, 27);
+            dateTimePicker1.TabIndex = 18;
+            dateTimePicker1.Value = new DateTime(2024, 12, 13, 16, 17, 34, 0);
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label4.Location = new Point(1192, 405);
+            label4.Name = "label4";
+            label4.Size = new Size(113, 24);
+            label4.TabIndex = 14;
+            label4.Text = "Day Build :";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label3.Location = new Point(1192, 350);
+            label3.Name = "label3";
+            label3.Size = new Size(60, 24);
+            label3.TabIndex = 15;
+            label3.Text = "City :";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label2.Location = new Point(1192, 303);
+            label2.Name = "label2";
+            label2.Size = new Size(101, 24);
+            label2.TabIndex = 16;
+            label2.Text = "Address :";
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label5.Location = new Point(1192, 257);
+            label5.Name = "label5";
+            label5.Size = new Size(88, 24);
+            label5.TabIndex = 17;
+            label5.Text = "CLB ID :";
+            // 
+            // txtAddress
+            // 
+            txtAddress.Location = new Point(1347, 300);
+            txtAddress.Name = "txtAddress";
+            txtAddress.Size = new Size(221, 27);
+            txtAddress.TabIndex = 12;
+            // 
+            // txtTeamID
+            // 
+            txtTeamID.Location = new Point(1347, 254);
+            txtTeamID.Name = "txtTeamID";
+            txtTeamID.Size = new Size(221, 27);
+            txtTeamID.TabIndex = 13;
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label7.Location = new Point(1192, 549);
+            label7.Name = "label7";
+            label7.Size = new Size(100, 24);
+            label7.TabIndex = 22;
+            label7.Text = "Stadium :";
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label6.Location = new Point(1192, 502);
+            label6.Name = "label6";
+            label6.Size = new Size(84, 24);
+            label6.TabIndex = 23;
+            label6.Text = "Nation :";
+            // 
+            // label8
+            // 
+            label8.AutoSize = true;
+            label8.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label8.Location = new Point(1192, 456);
+            label8.Name = "label8";
+            label8.Size = new Size(122, 24);
+            label8.TabIndex = 24;
+            label8.Text = "CLB Name :";
+            // 
+            // txtTeamName
+            // 
+            txtTeamName.Location = new Point(1347, 453);
+            txtTeamName.Name = "txtTeamName";
+            txtTeamName.Size = new Size(221, 27);
+            txtTeamName.TabIndex = 21;
+            // 
+            // btnAdd
+            // 
+            btnAdd.Location = new Point(1308, 597);
+            btnAdd.Name = "btnAdd";
+            btnAdd.Size = new Size(125, 49);
+            btnAdd.TabIndex = 25;
+            btnAdd.Text = "Add";
+            btnAdd.UseVisualStyleBackColor = true;
+            // 
+            // btnClear
+            // 
+            btnClear.Location = new Point(1443, 665);
+            btnClear.Name = "btnClear";
+            btnClear.Size = new Size(125, 49);
+            btnClear.TabIndex = 26;
+            btnClear.Text = "Clear";
+            btnClear.UseVisualStyleBackColor = true;
+            // 
+            // btnEdit
+            // 
+            btnEdit.Location = new Point(1443, 597);
+            btnEdit.Name = "btnEdit";
+            btnEdit.Size = new Size(125, 49);
+            btnEdit.TabIndex = 27;
+            btnEdit.Text = "Edit";
+            btnEdit.UseVisualStyleBackColor = true;
+            // 
+            // cmbCity
+            // 
+            cmbCity.FormattingEnabled = true;
+            cmbCity.Location = new Point(1347, 350);
+            cmbCity.Name = "cmbCity";
+            cmbCity.Size = new Size(221, 28);
+            cmbCity.TabIndex = 28;
+            // 
+            // cmbNation
+            // 
+            cmbNation.FormattingEnabled = true;
+            cmbNation.Location = new Point(1347, 498);
+            cmbNation.Name = "cmbNation";
+            cmbNation.Size = new Size(221, 28);
+            cmbNation.TabIndex = 29;
+            // 
+            // cmbStadium
+            // 
+            cmbStadium.FormattingEnabled = true;
+            cmbStadium.Location = new Point(1347, 545);
+            cmbStadium.Name = "cmbStadium";
+            cmbStadium.Size = new Size(221, 28);
+            cmbStadium.TabIndex = 30;
             // 
             // Club
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LightSkyBlue;
-            ClientSize = new Size(1182, 753);
+            ClientSize = new Size(1619, 753);
+            Controls.Add(cmbStadium);
+            Controls.Add(cmbNation);
+            Controls.Add(cmbCity);
+            Controls.Add(btnEdit);
+            Controls.Add(btnAdd);
+            Controls.Add(btnClear);
+            Controls.Add(label7);
+            Controls.Add(label6);
+            Controls.Add(label8);
+            Controls.Add(txtTeamName);
+            Controls.Add(dateTimePicker1);
+            Controls.Add(label4);
+            Controls.Add(label3);
+            Controls.Add(label2);
+            Controls.Add(label5);
+            Controls.Add(txtAddress);
+            Controls.Add(txtTeamID);
+            Controls.Add(btnUploadLogo);
+            Controls.Add(pictureBox1Logo);
             Controls.Add(btnDelete);
             Controls.Add(label1);
             Controls.Add(searchTeams);
-            Controls.Add(btnAdd);
-            Controls.Add(btnEdit);
             Controls.Add(dataGridViewTeams);
             Controls.Add(panel1);
             Name = "Club";
@@ -338,6 +521,7 @@ namespace WinFormsAppGiaoDien
             panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataGridViewTeams).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1Logo).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -356,10 +540,8 @@ namespace WinFormsAppGiaoDien
         private Button btnClub;
         private PictureBox pictureBox1;
         private DataGridView dataGridViewTeams;
-        private Button btnAdd;
         private TextBox searchTeams;
         private Label label1;
-        private Button btnEdit;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
@@ -369,5 +551,24 @@ namespace WinFormsAppGiaoDien
         private DataGridViewTextBoxColumn dataGridViewTextBoxColumn7;
         private DataGridViewImageColumn logoColumn;
         private Button btnDelete;
+        private Button btnUploadLogo;
+        private PictureBox pictureBox1Logo;
+        private DateTimePicker dateTimePicker1;
+        private Label label4;
+        private Label label3;
+        private Label label2;
+        private Label label5;
+        private TextBox txtAddress;
+        private TextBox txtTeamID;
+        private Label label7;
+        private Label label6;
+        private Label label8;
+        private TextBox txtTeamName;
+        private Button btnAdd;
+        private Button btnClear;
+        private Button btnEdit;
+        private ComboBox cmbCity;
+        private ComboBox cmbNation;
+        private ComboBox cmbStadium;
     }
 }

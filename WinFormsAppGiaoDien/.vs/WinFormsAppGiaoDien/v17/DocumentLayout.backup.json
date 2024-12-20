@@ -3,42 +3,18 @@
   "WorkspaceRootPath": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\code\\backend\\.net\\new folder\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\code\\backend\\.net\\new folder\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\editreferee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\editreferee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\code\\backend\\.net\\new folder\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\referee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\referee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{500E235D-893F-4394-B9F4-7A247AC3AE41}|DAL\\DAL.csproj|d:\\code\\backend\\.net\\new folder\\quanlibongda\\winformsappgiaodien\\dal\\refereedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{500E235D-893F-4394-B9F4-7A247AC3AE41}|DAL\\DAL.csproj|solutionrelative:dal\\refereedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3A9BB3D-5B4F-48DD-AB3C-806ABFA16BB9}|BUS\\BUS.csproj|d:\\code\\backend\\.net\\new folder\\quanlibongda\\winformsappgiaodien\\bus\\refereebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3A9BB3D-5B4F-48DD-AB3C-806ABFA16BB9}|BUS\\BUS.csproj|solutionrelative:bus\\refereebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7567EB-23B3-4C89-BCBF-81470F5C4F09}|DTO\\DTO.csproj|d:\\code\\backend\\.net\\new folder\\quanlibongda\\winformsappgiaodien\\dto\\refereedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA7567EB-23B3-4C89-BCBF-81470F5C4F09}|DTO\\DTO.csproj|solutionrelative:dto\\refereedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\code\\backend\\.net\\new folder\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\editreferee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\editreferee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|d:\\code\\backend\\.net\\new folder\\quanlibongda\\winformsappgiaodien\\winformsappgiaodien\\player.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D51304-2856-4EC2-A493-93E5554EE8DA}|WinFormsAppGiaoDien\\WinFormsAppGiaoDien.csproj|solutionrelative:winformsappgiaodien\\player.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 185,
+      "VerticalTabListWidth": 136,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,93 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Referee.cs",
-              "DocumentMoniker": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Referee.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Referee.cs",
-              "ToolTip": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Referee.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\Referee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:58:02.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RefereeDTO.cs",
-              "DocumentMoniker": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\DTO\\RefereeDTO.cs",
-              "RelativeDocumentMoniker": "DTO\\RefereeDTO.cs",
-              "ToolTip": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\DTO\\RefereeDTO.cs",
-              "RelativeToolTip": "DTO\\RefereeDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:53:51.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditReferee.cs",
-              "DocumentMoniker": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditReferee.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditReferee.cs",
-              "ToolTip": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditReferee.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\EditReferee.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:52:44.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EditReferee.Designer.cs",
-              "DocumentMoniker": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditReferee.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\EditReferee.Designer.cs",
-              "ToolTip": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\EditReferee.Designer.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\EditReferee.Designer.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAgwJMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:50:50.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RefereeBUS.cs",
-              "DocumentMoniker": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\BUS\\RefereeBUS.cs",
-              "RelativeDocumentMoniker": "BUS\\RefereeBUS.cs",
-              "ToolTip": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\BUS\\RefereeBUS.cs",
-              "RelativeToolTip": "BUS\\RefereeBUS.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:24:44.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RefereeDAL.cs",
-              "DocumentMoniker": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\DAL\\RefereeDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\RefereeDAL.cs",
-              "ToolTip": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\DAL\\RefereeDAL.cs",
-              "RelativeToolTip": "DAL\\RefereeDAL.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T00:23:33.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Program.cs",
-              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Program.cs",
-              "ToolTip": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Program.cs",
-              "RelativeToolTip": "WinFormsAppGiaoDien\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Title": "Player.Designer.cs",
+              "DocumentMoniker": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Player.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsAppGiaoDien\\Player.Designer.cs",
+              "ToolTip": "D:\\code\\backend\\.NET\\New folder\\QuanLiBongDa\\WinFormsAppGiaoDien\\WinFormsAppGiaoDien\\Player.Designer.cs",
+              "RelativeToolTip": "WinFormsAppGiaoDien\\Player.Designer.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAAOgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:35:23.266Z",
+              "WhenOpened": "2024-12-20T17:39:15.98Z",
               "EditorCaption": ""
             }
           ]

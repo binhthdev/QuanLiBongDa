@@ -45,9 +45,29 @@
             dataGridView1 = new DataGridView();
             searchPlayer = new TextBox();
             btnDelete = new Button();
+            btnUpload = new Button();
+            pictureBox2 = new PictureBox();
+            cbxteamID = new ComboBox();
+            label2 = new Label();
+            txtPlayerID = new TextBox();
+            label3 = new Label();
+            label4 = new Label();
+            lbPlayerName = new Label();
+            ttxNamePlayer = new TextBox();
+            dateTimePickerPlayer = new DateTimePicker();
+            cbbRole = new ComboBox();
+            label7 = new Label();
+            label6 = new Label();
+            label5 = new Label();
+            txtNumberPlayer = new TextBox();
+            btnClear = new Button();
+            cbxNationality = new ComboBox();
+
+            btnSalary = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
             // panel1
@@ -176,18 +196,18 @@
             // 
             // btnAdd
             // 
-            btnAdd.Location = new Point(1099, 680);
+            btnAdd.Location = new Point(1294, 602);
             btnAdd.Name = "btnAdd";
-            btnAdd.Size = new Size(71, 51);
+            btnAdd.Size = new Size(125, 51);
             btnAdd.TabIndex = 17;
             btnAdd.Text = "Add";
             btnAdd.UseVisualStyleBackColor = true;
             // 
             // btnEdit
             // 
-            btnEdit.Location = new Point(1021, 680);
+            btnEdit.Location = new Point(1451, 602);
             btnEdit.Name = "btnEdit";
-            btnEdit.Size = new Size(71, 51);
+            btnEdit.Size = new Size(125, 51);
             btnEdit.TabIndex = 18;
             btnEdit.Text = "Edit";
             btnEdit.UseVisualStyleBackColor = true;
@@ -200,22 +220,23 @@
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(927, 547);
             dataGridView1.TabIndex = 16;
+            dataGridView1.RowTemplate.Height = 70;
 
 
             // Thêm cột vào DataGridView
             dataGridView1.Columns.Add("PlayerID", "Player ID");
             dataGridView1.Columns.Add("PlayerName", "Player Name");
+            DataGridViewImageColumn imgColumn = new DataGridViewImageColumn();
+            imgColumn.Name = "PlayerImage";
+            imgColumn.HeaderText = "Player Image";
+            imgColumn.ImageLayout = DataGridViewImageCellLayout.Zoom; // Ảnh co dãn vừa khung
+            dataGridView1.Columns.Add(imgColumn);
             dataGridView1.Columns.Add("Age", "Age");
             dataGridView1.Columns.Add("Position", "Position");
             dataGridView1.Columns.Add("ShirtNumber", "Shirt Number");
             dataGridView1.Columns.Add("TeamID", "Team ID");
             dataGridView1.Columns.Add("Nationality", "Nationality"); // Thêm cột Quốc tịch
                                                                      // Thêm cột hiển thị ảnh
-            DataGridViewImageColumn imgColumn = new DataGridViewImageColumn();
-            imgColumn.Name = "PlayerImage";
-            imgColumn.HeaderText = "Player Image";
-            imgColumn.ImageLayout = DataGridViewImageCellLayout.Stretch; // Ảnh co dãn vừa khung
-            dataGridView1.Columns.Add(imgColumn);
 
             // Chỉnh sửa chiều rộng của cột hiển thị ảnh
             dataGridView1.Columns["PlayerImage"].Width = 150;
@@ -235,23 +256,200 @@
             searchPlayer.Location = new Point(382, 680);
             searchPlayer.Name = "searchPlayer";
             searchPlayer.PlaceholderText = "Search here";
-            searchPlayer.Size = new Size(400, 34);
+            searchPlayer.Size = new Size(569, 34);
             searchPlayer.TabIndex = 7;
             // 
             // btnDelete
             // 
-            btnDelete.Location = new Point(935, 680);
+            btnDelete.Location = new Point(1451, 680);
             btnDelete.Name = "btnDelete";
-            btnDelete.Size = new Size(71, 51);
+            btnDelete.Size = new Size(125, 51);
             btnDelete.TabIndex = 20;
             btnDelete.Text = "Delete";
             btnDelete.UseVisualStyleBackColor = true;
+            // 
+            // btnUpload
+            // 
+            btnUpload.Location = new Point(1355, 189);
+            btnUpload.Name = "btnUpload";
+            btnUpload.Size = new Size(125, 49);
+            btnUpload.TabIndex = 22;
+            btnUpload.Text = "Upload";
+            btnUpload.UseVisualStyleBackColor = true;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.BackColor = Color.Silver;
+            pictureBox2.Location = new Point(1355, 64);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(125, 118);
+            pictureBox2.TabIndex = 21;
+            pictureBox2.TabStop = false;
+            // 
+            // cbxteamID
+            // 
+            cbxteamID.FormattingEnabled = true;
+            cbxteamID.Location = new Point(1355, 396);
+            cbxteamID.Name = "cbxteamID";
+            cbxteamID.Size = new Size(221, 28);
+            cbxteamID.TabIndex = 35;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label2.Location = new Point(1200, 400);
+            label2.Name = "label2";
+            label2.Size = new Size(99, 24);
+            label2.TabIndex = 34;
+            label2.Text = "Team ID :";
+            // 
+            // txtPlayerID
+            // 
+            txtPlayerID.Location = new Point(1355, 259);
+            txtPlayerID.Name = "txtPlayerID";
+            txtPlayerID.Size = new Size(221, 27);
+            txtPlayerID.TabIndex = 33;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label3.Location = new Point(1200, 355);
+            label3.Name = "label3";
+            label3.Size = new Size(123, 24);
+            label3.TabIndex = 32;
+            label3.Text = "Nationality :";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label4.Location = new Point(1200, 308);
+            label4.Name = "label4";
+            label4.Size = new Size(76, 24);
+            label4.TabIndex = 31;
+            label4.Text = "Name :";
+            // 
+            // lbPlayerName
+            // 
+            lbPlayerName.AutoSize = true;
+            lbPlayerName.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            lbPlayerName.Location = new Point(1200, 262);
+            lbPlayerName.Name = "lbPlayerName";
+            lbPlayerName.Size = new Size(107, 24);
+            lbPlayerName.TabIndex = 30;
+            lbPlayerName.Text = "Player ID :";
+            // 
+            // ttxNamePlayer
+            // 
+            ttxNamePlayer.Location = new Point(1355, 305);
+            ttxNamePlayer.Name = "ttxNamePlayer";
+            ttxNamePlayer.Size = new Size(221, 27);
+            ttxNamePlayer.TabIndex = 29;
+            // 
+            // dateTimePickerPlayer
+            // 
+            dateTimePickerPlayer.Format = DateTimePickerFormat.Short;
+            dateTimePickerPlayer.Location = new Point(1355, 542);
+            dateTimePickerPlayer.Name = "dateTimePickerPlayer";
+            dateTimePickerPlayer.Size = new Size(221, 27);
+            dateTimePickerPlayer.TabIndex = 41;
+            // 
+            // cbbRole
+            // 
+            cbbRole.FormattingEnabled = true;
+            cbbRole.Location = new Point(1355, 492);
+            cbbRole.Name = "cbbRole";
+            cbbRole.Size = new Size(221, 28);
+            cbbRole.TabIndex = 40;
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label7.Location = new Point(1200, 542);
+            label7.Name = "label7";
+            label7.Size = new Size(141, 24);
+            label7.TabIndex = 38;
+            label7.Text = "Date of birth :";
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label6.Location = new Point(1200, 495);
+            label6.Name = "label6";
+            label6.Size = new Size(65, 24);
+            label6.TabIndex = 37;
+            label6.Text = "Role :";
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Font = new Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point, 163);
+            label5.Location = new Point(1200, 449);
+            label5.Name = "label5";
+            label5.Size = new Size(84, 24);
+            label5.TabIndex = 39;
+            label5.Text = "Number";
+            // 
+            // txtNumberPlayer
+            // 
+            txtNumberPlayer.Location = new Point(1355, 446);
+            txtNumberPlayer.Name = "txtNumberPlayer";
+            txtNumberPlayer.Size = new Size(221, 27);
+            txtNumberPlayer.TabIndex = 36;
+            // 
+            // btnClear
+            // 
+            btnClear.Location = new Point(1294, 676);
+            btnClear.Name = "btnClear";
+            btnClear.Size = new Size(125, 49);
+            btnClear.TabIndex = 42;
+            btnClear.Text = "Clear";
+            btnClear.UseVisualStyleBackColor = true;
+            // 
+            // cbxNationality
+            // 
+            cbxNationality.FormattingEnabled = true;
+            cbxNationality.Location = new Point(1355, 351);
+            cbxNationality.Name = "cbxNationality";
+            cbxNationality.Size = new Size(221, 28);
+            cbxNationality.TabIndex = 43;
+            // 
+            // btnSalary
+            // 
+            btnSalary.Location = new Point(1058, 663);
+            btnSalary.Name = "btnSalary";
+            btnSalary.Size = new Size(125, 51);
+            btnSalary.TabIndex = 44;
+            btnSalary.Text = "Salary";
+            btnSalary.UseVisualStyleBackColor = true;
             // 
             // Player
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1182, 753);
+            ClientSize = new Size(1619, 753);
+            Controls.Add(btnSalary);
+            Controls.Add(cbxNationality);
+            Controls.Add(btnClear);
+            Controls.Add(dateTimePickerPlayer);
+            Controls.Add(cbbRole);
+            Controls.Add(label7);
+            Controls.Add(label6);
+            Controls.Add(label5);
+            Controls.Add(txtNumberPlayer);
+            Controls.Add(cbxteamID);
+            Controls.Add(label2);
+            Controls.Add(txtPlayerID);
+            Controls.Add(label3);
+            Controls.Add(label4);
+            Controls.Add(lbPlayerName);
+            Controls.Add(ttxNamePlayer);
+            Controls.Add(btnUpload);
+            Controls.Add(pictureBox2);
             Controls.Add(btnDelete);
             Controls.Add(searchPlayer);
             Controls.Add(panel1);
@@ -264,6 +462,7 @@
             panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -287,5 +486,24 @@
         private DataGridView dataGridView1;
         private TextBox searchPlayer;
         private Button btnDelete;
+        private Button btnUpload;
+        private PictureBox pictureBox2;
+        private ComboBox cbxteamID;
+        private Label label2;
+        private TextBox txtPlayerID;
+        private Label label3;
+        private Label label4;
+        private Label lbPlayerName;
+        private TextBox ttxNamePlayer;
+        private DateTimePicker dateTimePickerPlayer;
+        private ComboBox cbbRole;
+        private Label label7;
+        private Label label6;
+        private Label label5;
+        private TextBox txtNumberPlayer;
+        private Button btnClear;
+
+        private ComboBox cbxNationality;
+        private Button btnSalary;
     }
 }

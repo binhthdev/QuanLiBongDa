@@ -1,28 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="AddClub.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="Coach.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="EditClub.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="AddMatchSchendule.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="EditMatchSchendule.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="AddPlayer.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="EditPlayer.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="AddReferee.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="EditReferee.cs">
@@ -50,6 +35,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Club.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Salary.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="SignIn.cs">
